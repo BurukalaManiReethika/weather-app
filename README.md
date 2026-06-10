@@ -13,4 +13,4 @@ A simple quote generator for developers.
 - JavaScript
 
 ## Demo
-Open index.html in your browser.
+https://weather-app-iota-six-47.vercel.app/
