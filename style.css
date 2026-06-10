@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:#0d1117;
+    color:white;
+}
+
+.container{
+    width:350px;
+    text-align:center;
+    padding:25px;
+    border-radius:12px;
+    background:#161b22;
+    box-shadow:0 0 20px rgba(0,0,0,0.3);
+}
+
+h1{
+    margin-bottom:20px;
+}
+
+input{
+    width:100%;
+    padding:10px;
+    border:none;
+    border-radius:8px;
+    margin-bottom:10px;
+}
+
+button{
+    padding:10px 20px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+#weather{
+    margin-top:20px;
+    line-height:2;
+}
